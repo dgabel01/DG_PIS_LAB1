@@ -12,6 +12,7 @@ namespace DG_PIS_LAB1
         {
             Console.WriteLine("Grbi brat");
             Console.Write("dgabel01");
+            Console.WriteLine("Hello world!");
         }
     }
 }
