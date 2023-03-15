@@ -10,6 +10,7 @@ namespace DG_PIS_LAB1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Grbi brat");
         }
     }
 }
