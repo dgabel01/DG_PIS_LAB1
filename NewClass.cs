@@ -8,5 +8,8 @@ namespace DG_PIS_LAB1
 {
     class NewClass
     {
+        int metoda(){
+            return 1;
+        }
     }
 }
